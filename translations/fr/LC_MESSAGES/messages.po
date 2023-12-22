@@ -1,0 +1,42 @@
+# French translations for PROJECT.
+# Copyright (C) 2023 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-12-11 22:25-0500\n"
+"PO-Revision-Date: 2023-12-11 22:36-0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: fr\n"
+"Language-Team: fr <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.13.1\n"
+
+#: templates/index.html:27
+msgid "Coffe Shop"
+msgstr "Café"
+
+#: templates/index.html:39
+msgid "Choose a language:"
+msgstr "Choisissez une langue :"
+
+#: templates/index.html:60 templates/index.html:67 templates/index.html:74
+msgid "Coffee Shop"
+msgstr "Café"
+
+#: templates/index.html:61 templates/index.html:68 templates/index.html:75
+msgid ""
+"Experience indulgence in every sip with our Cappuccino, a delicate fusion of intense espresso"
+msgstr ""
+"Éveillez vos sens avec l'arôme irrésistible de notre café fraîchement torréfié"
+
+#: templates/index.html:89
+msgid "Product"
+msgstr "Produit"
+

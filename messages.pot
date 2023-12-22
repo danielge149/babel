@@ -1,0 +1,58 @@
+# Translations template for PROJECT.
+# Copyright (C) 2023 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-12-11 22:25-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.13.1\n"
+
+#: templates/index.html:27
+msgid "Coffe Shop"
+msgstr ""
+
+#: templates/index.html:39
+msgid "Choose a language:"
+msgstr ""
+
+#: templates/index.html:60 templates/index.html:67 templates/index.html:74
+msgid "Coffee Shop"
+msgstr ""
+
+#: templates/index.html:61 templates/index.html:68 templates/index.html:75
+msgid ""
+"Awaken your senses with the irresistible aroma of our freshly roasted "
+"coffee"
+msgstr ""
+
+#: templates/index.html:89
+msgid "Product"
+msgstr ""
+
+#: templates/index.html:97
+msgid "Cappuccino"
+msgstr ""
+
+#: templates/index.html:98
+msgid "units: "
+msgstr ""
+
+#: templates/index.html:99
+msgid ""
+"Experience indulgence in every sip with our Cappuccino, a delicate fusion of intense espresso"
+msgstr ""
+
+#: templates/index.html:100
+msgid "Price: "
+msgstr ""
+

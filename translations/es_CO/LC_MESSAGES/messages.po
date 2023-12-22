@@ -1,0 +1,63 @@
+# Spanish (Colombia) translations for PROJECT.
+# Copyright (C) 2023 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-12-11 22:25-0500\n"
+"PO-Revision-Date: 2023-12-11 22:36-0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: es_CO\n"
+"Language-Team: es_CO <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.13.1\n"
+
+#: templates/index.html:27
+msgid "Coffe Shop"
+msgstr "Cafetería"
+
+#: templates/index.html:39
+msgid "Choose a language:"
+msgstr "Elija un idioma:"
+
+#: templates/index.html:60 templates/index.html:67 templates/index.html:74
+msgid "Coffee Shop"
+msgstr "Cafetería"
+
+#: templates/index.html:61 templates/index.html:68 templates/index.html:75
+msgid ""
+"Awaken your senses with the irresistible aroma of our freshly roasted "
+"coffee"
+msgstr ""
+"Despierte sus sentidos con el irresistible aroma de nuestro café recién "
+"tostado"
+
+#: templates/index.html:89
+msgid "Product"
+msgstr "Producto"
+
+#: templates/index.html:97
+msgid "Cappuccino"
+msgstr "Capuchino"
+
+#: templates/index.html:98
+msgid "units: "
+msgstr "unidades: "
+
+#: templates/index.html:99
+msgid ""
+"Experience indulgence in every sip with our Cappuccino, a delicate fusion of intense espresso"
+msgstr ""
+"Experimenta la indulgencia en cada sorbo con nuestro Capuchino, una delicada "
+"fusión de espresso intenso"
+
+#: templates/index.html:100
+msgid "Price: "
+msgstr "Precio: "
+
